@@ -5,9 +5,9 @@
 	"scripts": {},
 	"dependencies": {
 		"@codeeditorland/cli": "0.0.1",
-		"@wdio/cli": "9.9.1",
-		"@wdio/local-runner": "9.9.1",
-		"@wdio/spec-reporter": "9.9.0"
+		"@wdio/cli": "9.10.1",
+		"@wdio/local-runner": "9.10.1",
+		"@wdio/spec-reporter": "9.10.1"
 	},
 	"devDependencies": {}
 }
